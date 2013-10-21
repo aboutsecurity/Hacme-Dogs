@@ -1,7 +1,5 @@
-#
-# Custom metasploit exploit for vulnserver.c
-# Written by Peter Van Eeckhoutte
-#
+# Custom metasploit module
+
 require 'msf/core'
 
 class Metasploit3 < Msf::Exploit::Remote
